@@ -1,0 +1,4 @@
+The bottom link navigates to the Remote Google Sheet for Registering the NFC Tag owner Name with Date
+
+https://docs.google.com/spreadsheets/d/1Gl4UevuZ_ULh9n7pJYeaMO1CZW-WLF3n-AoJ1EwQ9yA/edit?usp=sharing
+
